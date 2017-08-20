@@ -1,0 +1,9 @@
+C:\Users\kirugulige\documents\visual studio 2015\Projects\WindowsFormsApplication7\WindowsFormsApplication7\bin\Release\WindowsFormsApplication7.exe.config
+C:\Users\kirugulige\documents\visual studio 2015\Projects\WindowsFormsApplication7\WindowsFormsApplication7\bin\Release\WindowsFormsApplication7.exe
+C:\Users\kirugulige\documents\visual studio 2015\Projects\WindowsFormsApplication7\WindowsFormsApplication7\bin\Release\WindowsFormsApplication7.pdb
+C:\Users\kirugulige\documents\visual studio 2015\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Release\WindowsFormsApplication7.csprojResolveAssemblyReference.cache
+C:\Users\kirugulige\documents\visual studio 2015\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Release\WindowsFormsApplication7.NSC.resources
+C:\Users\kirugulige\documents\visual studio 2015\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Release\WindowsFormsApplication7.Properties.Resources.resources
+C:\Users\kirugulige\documents\visual studio 2015\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Release\WindowsFormsApplication7.csproj.GenerateResource.Cache
+C:\Users\kirugulige\documents\visual studio 2015\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Release\WindowsFormsApplication7.exe
+C:\Users\kirugulige\documents\visual studio 2015\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Release\WindowsFormsApplication7.pdb
